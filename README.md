@@ -1,8 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
 <h3 align="center">I'm Leïly Coquard, a wannabe web developper :)</h3>
-<br>
-
-<p>🌟 The song that I currently listen to non-stop while coding : <a href="https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn?si=f09910f9e9f940eb" target="_blank">After Dark - Mr Kitty </a><p>
 
 <p align="left">Languages and Tools:</p>
 <p align="left">
@@ -24,6 +21,9 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   </p>
+  
+  
+<p>🌟 The song that I currently listen to non-stop while coding : <a href="https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn?si=f09910f9e9f940eb" target="_blank">After Dark - Mr Kitty </a><p>
   
   <br>
   
