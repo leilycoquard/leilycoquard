@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<h3 align="center">You are on the Github of Leïly Coquard :)</h3>
+<h3 align="center">I'm Leïly Coquard, a wannabe web developper :)</h3>
 <br>
 
 <p>🌟 The song that I currently listen to non-stop while coding : <a href="https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn?si=f09910f9e9f940eb" target="_blank">After Dark - Mr Kitty </a><p>
