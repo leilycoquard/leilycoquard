@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<h3 align="center">I'm Leïly Coquard, a wannabe web developper :)</h3>
+<h3 align="center">I'm Leïly Coquard Misono, integrating her designs :)</h3>
 
 <p align="left">Currently learning :</p>
 <p align="left">
