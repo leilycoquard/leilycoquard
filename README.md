@@ -28,9 +28,6 @@
 <p>🌟 The song that I currently listen to non-stop while coding : <a href="https://open.spotify.com/track/2LtHHdfNiV1Yel25dNsIXy?si=b3a230158feb4867" target="_blank">Open Spotify</a><p>
   
   <br>
-  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leilycoquard&show_icons=true&locale=en&layout=compact" alt="leilycoquard" /></p>
 
 <h3 align="left">Come say hi :</h3>
 <p align="left">
